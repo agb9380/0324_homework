@@ -1,10 +1,10 @@
 package Homework0324;
 
-public class DateMain {
+public class DateMain_me {
 	public static void main(String[] args) {
 
 		
-		DateMenu dm= new DateMenu();
+		DateMenu__me dm= new DateMenu__me();
 		dm.dateMenu();
 		
 		

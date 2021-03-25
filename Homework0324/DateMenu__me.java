@@ -3,7 +3,7 @@ package Homework0324;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class DateMenu {
+public class DateMenu__me {
 
 	Scanner sc = new Scanner(System.in);
 
